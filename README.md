@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
     <h2>My Development Footprint</h2>
     <br>
     <img alt="snake eating my contributions" src="https://github.com/rpashchapur/rpashchapur/blob/output/github-contribution-grid-snake.svg" />
-    <br/><br/><br/>
+    <br/>
 </div>
 
 <hr/>
