@@ -7,7 +7,7 @@
     <img alt="snake eating my contributions" src="https://github.com/rpashchapur/rpashchapur/blob/output/github-contribution-grid-snake.svg" />
 </div>
 <p align="center">
-### 🛠️ Technologies & Tools that I use on daily basis 🛠️
+## 🛠️ Technologies & Toolsthat I use on daily basis 🛠️
 </p>   
 <p align="center">
   <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC" alt="C" />
