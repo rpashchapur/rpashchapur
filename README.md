@@ -19,13 +19,16 @@
   <img src="https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 <p align="center">
-    ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-    ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-    ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-    
-
-  
-  
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" alt="Linux" />
 </p>
+## 📊 GitHub Stats
+
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpashchapur&show_icons=true&theme=radical)
+
+## 🚀 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpashchapur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
