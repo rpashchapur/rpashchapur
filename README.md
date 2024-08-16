@@ -6,4 +6,14 @@
 <div align="center">
     <img alt="snake eating my contributions" src="https://github.com/rpashchapur/rpashchapur/blob/output/github-contribution-grid-snake.svg" />
 </div>
+### Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=0095D5)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
+
+### Tools & Technologie
 <hr/>
