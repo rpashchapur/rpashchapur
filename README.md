@@ -8,12 +8,14 @@
 </div>
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=0095D5)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
-
-### Tools & Technologie
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=0095D5" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC" alt="C" />
+</p>
 <hr/>
