@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=0095D5" alt="Kotlin" />
   <img src="https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
-### Tools & Technologies
 
+<p align="center">
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
