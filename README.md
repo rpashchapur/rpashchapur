@@ -7,7 +7,7 @@
     <img alt="snake eating my contributions" src="https://github.com/rpashchapur/rpashchapur/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools that I use on daily basis 🛠️
 <p align="center">
   <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C" alt="C++" />
@@ -24,11 +24,4 @@
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" alt="Linux" />
 </p>
-## 📊 GitHub Stats
-
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpashchapur&show_icons=true&theme=radical)
-
-## 🚀 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpashchapur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
